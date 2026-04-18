@@ -22,6 +22,10 @@ Projet réalisé dans le cadre de la Licence Informatique.
 
 Le projet consiste à implémenter un moteur de jeu complet, incluant la gestion de la grille, des tirettes et des interactions entre les éléments, à partir d’un cahier des charges précis.
 
+## Versions du projet
+- V1 : version simplifiée en mode solo avec logique de base
+- V2 : version complète avec gestion des règles du jeu et interactions
+
 ## Résultat
 Projet académique validé avec une note de 17/20.
 
